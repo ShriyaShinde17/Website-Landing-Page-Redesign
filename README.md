@@ -26,7 +26,7 @@ Backgrounds, buttons, and header colors are aligned for a cohesive visual experi
 Used a two-column layout to balance visuals (illustration) with content (text + CTA).
 Employed padding and margin adjustments to ensure elements are cleanly separated and visually digestible.
 
-Outcome
+Outcome:
 The redesign transforms a static placeholder page into a functional, visually appealing, and user-friendly web interface. It sets a foundation for future content expansion while maintaining a simple, approachable aesthetic.
 
 
