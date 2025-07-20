@@ -30,5 +30,5 @@ Outcome:
 The redesign transforms a static placeholder page into a functional, visually appealing, and user-friendly web interface. It sets a foundation for future content expansion while maintaining a simple, approachable aesthetic.
 
 
-
+Link- https://www.figma.com/design/aUc8tgodqiI5XRzOIDEuQp/Redesign-of-an-existing-website-landing-page?t=zkAHJGCnayZpWGM0-1
 
